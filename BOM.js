@@ -1,22 +1,22 @@
-// function Check(){
-//     console.log("Shiksha")
-// }
+function Check(){
+    console.log("Shiksha")
+}
 
-// Check()
+Check()
 
-// function Add(){
-//     var a =15
-//     var b = 20
-//     console.log(a+b)
-// }
-//   Add()
+function Add(){
+    var a =15
+    var b = 20
+    console.log(a+b)
+}
+  Add()
 
-//   function subs(){
-//     var a= 50
-//     var b = 10
-//     console.log(a-b)
-//   }
-//   subs()
+  function subs(){
+    var a= 50
+    var b = True
+    console.log(a+b)
+  }
+  subs()
 
   function BOM(){
 
