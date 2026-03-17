@@ -15,7 +15,7 @@ function Condition(){
   //   alert("You cant Vote")
   // }
 
-    var num= Number(prompt("Enter number "))
+    // var num= Number(prompt("Enter number "))
 //     if(num%2==0){
 //       alert("Even number")
 //     }
@@ -23,6 +23,8 @@ function Condition(){
 //       alert("Odd number")
 //     }
 // }
+
+var num= Number(prompt("Enter number "))
   if(num > 0){
       alert("Positive")
     }
