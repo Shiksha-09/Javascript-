@@ -12,16 +12,16 @@
 //     var num=prompt(" Enter number ")
 //     for(var i=1; i<=10; i++){
 //         var tab=num*i
-//        alert(num + "*" +i + " = " +tab)
+//        console.log(num + "*" +i + " = " +tab)
 //     }
 // }
 // Table()
 
-// //Even number
+// //Even number between 1 to 50 .
 // function Even(){
 //     for(var i=0 ; i<=50; i++){
 //         if(i%2==0){
-//             alert("Even number is " + i)
+//             console.log("Even number is " + i)
 //         }
 //     }
 // }
